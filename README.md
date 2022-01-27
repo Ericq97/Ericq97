@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Eric Qiao.
+- 👀 I’m University of San Francisco Graduate student majoring in computer science.
